@@ -32,4 +32,5 @@ First, what we had done to clean the data is to keep only the  images these are 
 Afterwards, 
 
 ## Model Outputs
+For our model we had decided to 
 
