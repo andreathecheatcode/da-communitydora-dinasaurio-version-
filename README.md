@@ -17,7 +17,8 @@ Therefore, for this project we have created a CNN imaging model that is trained 
 
 ## Cleaning the Data 
 
-First, what we had done to clean the data is to keep only the  images these are that are jpeg, jpg, png to make processing the images easier. We then labled each image with a number ranging between 0-4 where each number corresponds to a specific dinosaur type
+First, what we had done to clean the data is to keep only the  images these are that are jpeg, jpg, png to make processing the images easier. We then labled each image with a number ranging between 0-4 where each number corresponds to a specific dinosaur type:
+
 0 - Ankylosaurus
 
 1 - Brontosaurus
@@ -27,3 +28,8 @@ First, what we had done to clean the data is to keep only the  images these are 
 3 - T-rex
 
 4 - triceratops
+
+Afterwards, 
+
+## Model Outputs
+
