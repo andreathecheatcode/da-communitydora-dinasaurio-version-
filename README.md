@@ -2,4 +2,4 @@
 
 ## Introduction 
 
-Long ago, dinosaurs freely roamed the Earth
+Long ago, dinosaurs freely roamed the Earth with their ecentricc and unique features 
